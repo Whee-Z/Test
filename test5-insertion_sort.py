@@ -25,11 +25,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
-
-alist = [1,5,3,2,77,4,6,33,99,65]
-i = Insertion_sort()
-i.insertion_sort(alist)
-
+    
